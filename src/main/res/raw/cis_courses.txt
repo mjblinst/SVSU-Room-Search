@@ -1,0 +1,231 @@
+{
+	"courses": [{
+		"academicLevel": "UG",
+		"capacity": "30",
+		"comments": [],
+		"courseNumber": "255",
+		"credit": "4",
+		"description": "This course focuses on web design and the client side of web application development. Topics include XHTML, Cascading Style Sheets (CSS), the Document Object Model, creating dynamic content and architecture, and building\/deploying web pages and web sites. A large portion of the class is spent on examining the ECMA\/JavaScript client side scripting language. Current topics of interest such as Web 2.0 and AJAX are explored. An introduction to using both commercial and open source web development tools is also provided.",
+		"instructors": [{
+			"username": "gpcorser",
+			"name": "G. Corser"
+		}],
+		"lineNumber": "0422",
+		"location": "UC",
+		"meetingTimes": [{
+			"method": "HYB",
+			"building": "SE",
+			"room": "135",
+			"days": "M",
+			"startTime": "12:30 PM",
+			"endTime": "02:20 PM",
+			"dates": "08\/27\/2018-12\/08\/2018",
+			"instructor": "gpcorser"
+		}, {
+			"method": "FNL",
+			"building": "SE",
+			"room": "135",
+			"days": "M",
+			"startTime": "12:30 PM",
+			"endTime": "02:20 PM",
+			"dates": "12\/09\/2018-12\/15\/2018"
+		}],
+		"prefix": "CIS",
+		"prerequisites": "CS 116 (Previous, Required)  ",
+		"seatsAvailable": "1",
+		"section": "70",
+		"status": "Open",
+		"term": "18\/FA",
+		"title": "Client Side Web Appl Devel"
+	}, {
+		"academicLevel": "UG",
+		"capacity": "30",
+		"comments": [],
+		"courseNumber": "255",
+		"credit": "4",
+		"description": "This course focuses on web design and the client side of web application development. Topics include XHTML, Cascading Style Sheets (CSS), the Document Object Model, creating dynamic content and architecture, and building\/deploying web pages and web sites. A large portion of the class is spent on examining the ECMA\/JavaScript client side scripting language. Current topics of interest such as Web 2.0 and AJAX are explored. An introduction to using both commercial and open source web development tools is also provided.",
+		"instructors": [{
+			"username": "gpcorser",
+			"name": "G. Corser"
+		}],
+		"lineNumber": "0424",
+		"location": "UC",
+		"meetingTimes": [{
+			"method": "HYB",
+			"building": "SE",
+			"room": "135",
+			"days": "W",
+			"startTime": "12:30 PM",
+			"endTime": "02:20 PM",
+			"dates": "08\/27\/2018-12\/08\/2018",
+			"instructor": "gpcorser"
+		}, {
+			"method": "FNL",
+			"building": "SE",
+			"room": "135",
+			"days": "W",
+			"startTime": "12:30 PM",
+			"endTime": "02:20 PM",
+			"dates": "12\/09\/2018-12\/15\/2018"
+		}],
+		"prefix": "CIS",
+		"prerequisites": "CS 116 (Previous, Required)  ",
+		"seatsAvailable": "2",
+		"section": "71",
+		"status": "Open",
+		"term": "18\/FA",
+		"title": "Client Side Web Appl Devel"
+	}, {
+		"academicLevel": "UG",
+		"capacity": "25",
+		"comments": [],
+		"courseNumber": "333",
+		"credit": "4",
+		"description": "The conceptual foundations of computer systems will be established through a review of hardware architecture, underlying software\/program execution, compiler, and operating systems. Definitions and examinations of topics such as machine structure, assemblers, loaders and inkers, macro processors, compilers and operating systems will be used to build the student's competency in understanding the importance of system software to a modern computing system. Prerequisite: CS 216.",
+		"instructors": [{
+			"username": "james",
+			"name": "S. James"
+		}],
+		"lineNumber": "0426",
+		"location": "UC",
+		"meetingTimes": [{
+			"method": "LEC",
+			"building": "SE",
+			"room": "119",
+			"days": "MW",
+			"startTime": "10:30 AM",
+			"endTime": "12:20 PM",
+			"dates": "08\/27\/2018-12\/08\/2018",
+			"instructor": "james"
+		}, {
+			"method": "FNL",
+			"building": "SE",
+			"room": "119",
+			"days": "M",
+			"startTime": "10:30 AM",
+			"endTime": "12:20 PM",
+			"dates": "12\/09\/2018-12\/15\/2018"
+		}],
+		"prefix": "CIS",
+		"prerequisites": "CS 216 (Previous, Required)  ",
+		"seatsAvailable": "2",
+		"section": "01",
+		"status": "Open",
+		"term": "18\/FA",
+		"title": "Intro to System Software"
+	}, {
+		"academicLevel": "UG",
+		"capacity": "30",
+		"comments": [],
+		"courseNumber": "386",
+		"credit": "4",
+		"description": "This course presents an overview of database management system components and their functions. Topics include logical and physical database design, database implementation, relational, network, hierarchical, and object-oriented database models, database administration functions, and current trends in database systems.",
+		"instructors": [{
+			"username": "icho",
+			"name": "I. Cho"
+		}],
+		"lineNumber": "0428",
+		"location": "UC",
+		"meetingTimes": [{
+			"method": "LEC",
+			"building": "SW",
+			"room": "143",
+			"days": "MW",
+			"startTime": "02:30 PM",
+			"endTime": "04:20 PM",
+			"dates": "08\/27\/2018-12\/08\/2018",
+			"instructor": "icho"
+		}, {
+			"method": "FNL",
+			"building": "SW",
+			"room": "143",
+			"days": "M",
+			"startTime": "02:30 PM",
+			"endTime": "04:20 PM",
+			"dates": "12\/09\/2018-12\/15\/2018"
+		}],
+		"prefix": "CIS",
+		"prerequisites": "CS 216 (Previous, Required)  ",
+		"seatsAvailable": "14",
+		"section": "01",
+		"status": "Open",
+		"term": "18\/FA",
+		"title": "Database Management Systems"
+	}, {
+		"academicLevel": "UG",
+		"capacity": "30",
+		"comments": [],
+		"courseNumber": "422",
+		"credit": "4",
+		"description": "Topics for this course include systems analysis, computer system engineering, problem identification, system development methodologies, feasibility studies, software project planning, and requirements analysis and documents. This course is a study of systems analysis and design techniques applicable to the analysis and requirements phases of the life cycle, including estimation, scheduling, diagraming and prototyping.  The student will learn the key points of planning, implementing, and managing a software system.  Prerequisite: CIS 311, CIS 366, and CIS 386.",
+		"instructors": [{
+			"username": "james",
+			"name": "S. James"
+		}],
+		"lineNumber": "0430",
+		"location": "UC",
+		"meetingTimes": [{
+			"method": "LEC",
+			"building": "SE",
+			"room": "121",
+			"days": "TR",
+			"startTime": "08:30 AM",
+			"endTime": "10:20 AM",
+			"dates": "08\/27\/2018-12\/08\/2018",
+			"instructor": "james"
+		}, {
+			"method": "FNL",
+			"building": "SE",
+			"room": "121",
+			"days": "T",
+			"startTime": "08:30 AM",
+			"endTime": "10:20 AM",
+			"dates": "12\/09\/2018-12\/15\/2018"
+		}],
+		"prefix": "CIS",
+		"prerequisites": "CIS 311, CIS 366, CIS 386 (Previous, Required)  ",
+		"seatsAvailable": "5",
+		"section": "01",
+		"status": "Open",
+		"term": "18\/FA",
+		"title": "System Analy & Design Concepts"
+	}, {
+		"academicLevel": "UG",
+		"capacity": "24",
+		"comments": [],
+		"courseNumber": "425",
+		"credit": "4",
+		"description": "The analysis and design of information systems permitting the computer to become an integral part of the decision making process. This course will examine systems technologies ranging from optimization problem solvers through artificially intelligent systems that support the decision making process. In particular, optimization-problem solving packages, language processing systems, expert systems, neural networks, machine learning systems, genetic algorithms and data visualization systems will be examined.",
+		"instructors": [{
+			"username": "james",
+			"name": "S. James"
+		}],
+		"lineNumber": "0432",
+		"location": "UC",
+		"meetingTimes": [{
+			"method": "LEC",
+			"building": "SE",
+			"room": "116",
+			"days": "MW",
+			"startTime": "12:30 PM",
+			"endTime": "02:20 PM",
+			"dates": "08\/27\/2018-12\/08\/2018",
+			"instructor": "james"
+		}, {
+			"method": "FNL",
+			"building": "SE",
+			"room": "116",
+			"days": "M",
+			"startTime": "12:30 PM",
+			"endTime": "02:20 PM",
+			"dates": "12\/09\/2018-12\/15\/2018"
+		}],
+		"prefix": "CIS",
+		"prerequisites": "CIS 311, CS 245, Senior standing (Previous, Required)  ",
+		"seatsAvailable": "1",
+		"section": "01",
+		"status": "Open",
+		"term": "18\/FA",
+		"title": "Decision Support Systems"
+	}]
+}
