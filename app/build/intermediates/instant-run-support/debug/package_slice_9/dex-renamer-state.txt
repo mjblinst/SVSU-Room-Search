@@ -1,0 +1,4 @@
+#Wed Nov 07 00:15:36 EST 2018
+base.0=/Users/matthewblinstrub/Desktop/SVSURoomSearch/app/build/intermediates/transforms/dexMerger/debug/28
+path.0=classes.dex
+renamed.0=classes.dex

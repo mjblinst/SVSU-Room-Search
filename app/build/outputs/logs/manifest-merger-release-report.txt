@@ -1,0 +1,184 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/matthewblinstrub/Desktop/SVSURoomSearch/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/matthewblinstrub/Desktop/SVSURoomSearch/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/matthewblinstrub/Desktop/SVSURoomSearch/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/matthewblinstrub/Desktop/SVSURoomSearch/app/src/main/AndroidManifest.xml:2:1-39:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e7717e023d752e693e467cfaae3d5af4/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/b8702345917b073a24d19a63317380b9/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/ae0986737071bde83f1b065c627a61f2/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/2457124710d602d9f6c083c428c639da/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/4a4796d97249d4bd93894a2683c0a78b/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/d43de567a17c297f9bf0b06208a2c37f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/1e59c445ef6b461d86caf47e57a95956/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/69fb0e482ece96a0b0177aac19fbcc1e/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/eb58b75fe0539419e6d36d80ee09bf7f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e1a41156dc89da557acc460a29bde4cb/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/fa7676f793c06eb6b484949bfb99d017/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/matthewblinstrub/Desktop/SVSURoomSearch/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/matthewblinstrub/Desktop/SVSURoomSearch/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/matthewblinstrub/Desktop/SVSURoomSearch/app/src/main/AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from /Users/matthewblinstrub/Desktop/SVSURoomSearch/app/src/main/AndroidManifest.xml:3:5-47
+		INJECTED from /Users/matthewblinstrub/Desktop/SVSURoomSearch/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/matthewblinstrub/Desktop/SVSURoomSearch/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/matthewblinstrub/Desktop/SVSURoomSearch/app/src/main/AndroidManifest.xml
+		ADDED from /Users/matthewblinstrub/Desktop/SVSURoomSearch/app/src/main/AndroidManifest.xml:2:1-39:12
+		INJECTED from /Users/matthewblinstrub/Desktop/SVSURoomSearch/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/matthewblinstrub/Desktop/SVSURoomSearch/app/src/main/AndroidManifest.xml
+		ADDED from /Users/matthewblinstrub/Desktop/SVSURoomSearch/app/src/main/AndroidManifest.xml:2:1-39:12
+		INJECTED from /Users/matthewblinstrub/Desktop/SVSURoomSearch/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/matthewblinstrub/Desktop/SVSURoomSearch/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/matthewblinstrub/Desktop/SVSURoomSearch/app/src/main/AndroidManifest.xml:5:5-37:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e7717e023d752e693e467cfaae3d5af4/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e7717e023d752e693e467cfaae3d5af4/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/b8702345917b073a24d19a63317380b9/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/b8702345917b073a24d19a63317380b9/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/ae0986737071bde83f1b065c627a61f2/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/ae0986737071bde83f1b065c627a61f2/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/2457124710d602d9f6c083c428c639da/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/2457124710d602d9f6c083c428c639da/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/4a4796d97249d4bd93894a2683c0a78b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/4a4796d97249d4bd93894a2683c0a78b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/d43de567a17c297f9bf0b06208a2c37f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/d43de567a17c297f9bf0b06208a2c37f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/1e59c445ef6b461d86caf47e57a95956/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/1e59c445ef6b461d86caf47e57a95956/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/69fb0e482ece96a0b0177aac19fbcc1e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/69fb0e482ece96a0b0177aac19fbcc1e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/eb58b75fe0539419e6d36d80ee09bf7f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/eb58b75fe0539419e6d36d80ee09bf7f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e1a41156dc89da557acc460a29bde4cb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e1a41156dc89da557acc460a29bde4cb/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/fa7676f793c06eb6b484949bfb99d017/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/fa7676f793c06eb6b484949bfb99d017/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /Users/matthewblinstrub/Desktop/SVSURoomSearch/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/matthewblinstrub/Desktop/SVSURoomSearch/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/matthewblinstrub/Desktop/SVSURoomSearch/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/matthewblinstrub/Desktop/SVSURoomSearch/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/matthewblinstrub/Desktop/SVSURoomSearch/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/matthewblinstrub/Desktop/SVSURoomSearch/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.mattblinstrub.svsuroomsearch.MainActivity
+ADDED from /Users/matthewblinstrub/Desktop/SVSURoomSearch/app/src/main/AndroidManifest.xml:12:9-21:20
+	android:screenOrientation
+		ADDED from /Users/matthewblinstrub/Desktop/SVSURoomSearch/app/src/main/AndroidManifest.xml:15:13-49
+	android:configChanges
+		ADDED from /Users/matthewblinstrub/Desktop/SVSURoomSearch/app/src/main/AndroidManifest.xml:14:13-63
+	android:name
+		ADDED from /Users/matthewblinstrub/Desktop/SVSURoomSearch/app/src/main/AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/matthewblinstrub/Desktop/SVSURoomSearch/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/matthewblinstrub/Desktop/SVSURoomSearch/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/matthewblinstrub/Desktop/SVSURoomSearch/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/matthewblinstrub/Desktop/SVSURoomSearch/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/matthewblinstrub/Desktop/SVSURoomSearch/app/src/main/AndroidManifest.xml:19:27-74
+activity#com.mattblinstrub.svsuroomsearch.SelectMajor
+ADDED from /Users/matthewblinstrub/Desktop/SVSURoomSearch/app/src/main/AndroidManifest.xml:22:9-26:52
+	android:screenOrientation
+		ADDED from /Users/matthewblinstrub/Desktop/SVSURoomSearch/app/src/main/AndroidManifest.xml:26:13-49
+	android:parentActivityName
+		ADDED from /Users/matthewblinstrub/Desktop/SVSURoomSearch/app/src/main/AndroidManifest.xml:25:13-55
+	android:configChanges
+		ADDED from /Users/matthewblinstrub/Desktop/SVSURoomSearch/app/src/main/AndroidManifest.xml:24:13-63
+	android:name
+		ADDED from /Users/matthewblinstrub/Desktop/SVSURoomSearch/app/src/main/AndroidManifest.xml:23:13-40
+activity#com.mattblinstrub.svsuroomsearch.SearchRooms
+ADDED from /Users/matthewblinstrub/Desktop/SVSURoomSearch/app/src/main/AndroidManifest.xml:27:9-31:52
+	android:screenOrientation
+		ADDED from /Users/matthewblinstrub/Desktop/SVSURoomSearch/app/src/main/AndroidManifest.xml:31:13-49
+	android:parentActivityName
+		ADDED from /Users/matthewblinstrub/Desktop/SVSURoomSearch/app/src/main/AndroidManifest.xml:30:13-55
+	android:configChanges
+		ADDED from /Users/matthewblinstrub/Desktop/SVSURoomSearch/app/src/main/AndroidManifest.xml:29:13-63
+	android:name
+		ADDED from /Users/matthewblinstrub/Desktop/SVSURoomSearch/app/src/main/AndroidManifest.xml:28:13-40
+activity#com.mattblinstrub.svsuroomsearch.DisplayTimes
+ADDED from /Users/matthewblinstrub/Desktop/SVSURoomSearch/app/src/main/AndroidManifest.xml:32:9-36:52
+	android:screenOrientation
+		ADDED from /Users/matthewblinstrub/Desktop/SVSURoomSearch/app/src/main/AndroidManifest.xml:36:13-49
+	android:parentActivityName
+		ADDED from /Users/matthewblinstrub/Desktop/SVSURoomSearch/app/src/main/AndroidManifest.xml:35:13-55
+	android:configChanges
+		ADDED from /Users/matthewblinstrub/Desktop/SVSURoomSearch/app/src/main/AndroidManifest.xml:34:13-63
+	android:name
+		ADDED from /Users/matthewblinstrub/Desktop/SVSURoomSearch/app/src/main/AndroidManifest.xml:33:13-41
+uses-sdk
+INJECTED from /Users/matthewblinstrub/Desktop/SVSURoomSearch/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/matthewblinstrub/Desktop/SVSURoomSearch/app/src/main/AndroidManifest.xml
+INJECTED from /Users/matthewblinstrub/Desktop/SVSURoomSearch/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e7717e023d752e693e467cfaae3d5af4/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e7717e023d752e693e467cfaae3d5af4/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/b8702345917b073a24d19a63317380b9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/b8702345917b073a24d19a63317380b9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/ae0986737071bde83f1b065c627a61f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/ae0986737071bde83f1b065c627a61f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/2457124710d602d9f6c083c428c639da/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/2457124710d602d9f6c083c428c639da/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/4a4796d97249d4bd93894a2683c0a78b/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/4a4796d97249d4bd93894a2683c0a78b/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/d43de567a17c297f9bf0b06208a2c37f/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/d43de567a17c297f9bf0b06208a2c37f/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/1e59c445ef6b461d86caf47e57a95956/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/1e59c445ef6b461d86caf47e57a95956/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/69fb0e482ece96a0b0177aac19fbcc1e/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/69fb0e482ece96a0b0177aac19fbcc1e/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/eb58b75fe0539419e6d36d80ee09bf7f/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/eb58b75fe0539419e6d36d80ee09bf7f/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e1a41156dc89da557acc460a29bde4cb/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e1a41156dc89da557acc460a29bde4cb/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/fa7676f793c06eb6b484949bfb99d017/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/fa7676f793c06eb6b484949bfb99d017/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/matthewblinstrub/Desktop/SVSURoomSearch/app/src/main/AndroidManifest.xml
+INJECTED from /Users/matthewblinstrub/Desktop/SVSURoomSearch/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e7717e023d752e693e467cfaae3d5af4/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/matthewblinstrub/Desktop/SVSURoomSearch/app/src/main/AndroidManifest.xml
+		ADDED from /Users/matthewblinstrub/Desktop/SVSURoomSearch/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/matthewblinstrub/Desktop/SVSURoomSearch/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/matthewblinstrub/Desktop/SVSURoomSearch/app/src/main/AndroidManifest.xml
+		ADDED from /Users/matthewblinstrub/Desktop/SVSURoomSearch/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/matthewblinstrub/Desktop/SVSURoomSearch/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e7717e023d752e693e467cfaae3d5af4/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/ae0986737071bde83f1b065c627a61f2/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/ae0986737071bde83f1b065c627a61f2/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/2457124710d602d9f6c083c428c639da/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/2457124710d602d9f6c083c428c639da/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/4a4796d97249d4bd93894a2683c0a78b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/4a4796d97249d4bd93894a2683c0a78b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/d43de567a17c297f9bf0b06208a2c37f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/d43de567a17c297f9bf0b06208a2c37f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/1e59c445ef6b461d86caf47e57a95956/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/1e59c445ef6b461d86caf47e57a95956/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/69fb0e482ece96a0b0177aac19fbcc1e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/69fb0e482ece96a0b0177aac19fbcc1e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/eb58b75fe0539419e6d36d80ee09bf7f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/eb58b75fe0539419e6d36d80ee09bf7f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e1a41156dc89da557acc460a29bde4cb/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e1a41156dc89da557acc460a29bde4cb/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e7717e023d752e693e467cfaae3d5af4/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e7717e023d752e693e467cfaae3d5af4/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/fa7676f793c06eb6b484949bfb99d017/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/fa7676f793c06eb6b484949bfb99d017/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/matthewblinstrub/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/fa7676f793c06eb6b484949bfb99d017/AndroidManifest.xml:26:13-58
