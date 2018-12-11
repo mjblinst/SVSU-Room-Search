@@ -1,0 +1,803 @@
+{
+	"courses": [{
+		"academicLevel": "UG",
+		"capacity": "30",
+		"comments": [],
+		"courseNumber": "105",
+		"credit": "4",
+		"description": "Introduction to computer capabilities, limitations and  applications; computer system organization; input, output and secondary storage devices; CPU components; Data communication systems; Database management system; Operating systems; Computer's impact on society; problem solving with computers including algorithm development, structured programming and top-down design.",
+		"instructors": [{
+			"username": "amukher1",
+			"name": "A. Mukherjee"
+		}],
+		"lineNumber": "0624",
+		"location": "UC",
+		"meetingTimes": [{
+			"method": "LEC",
+			"building": "SE",
+			"room": "117",
+			"days": "T",
+			"startTime": "10:30 AM",
+			"endTime": "12:20 PM",
+			"dates": "08\/27\/2018-12\/08\/2018",
+			"instructor": "amukher1"
+		}, {
+			"method": "LEC",
+			"building": "SE",
+			"room": "145",
+			"days": "R",
+			"startTime": "10:30 AM",
+			"endTime": "12:20 PM",
+			"dates": "08\/27\/2018-12\/08\/2018"
+		}, {
+			"method": "FNL",
+			"building": "SE",
+			"room": "117",
+			"days": "T",
+			"startTime": "10:30 AM",
+			"endTime": "12:20 PM",
+			"dates": "12\/09\/2018-12\/15\/2018"
+		}],
+		"prefix": "CS",
+		"prerequisites": "  ",
+		"seatsAvailable": "1",
+		"section": "01",
+		"status": "Open",
+		"term": "18\/FA",
+		"title": "Intro to Computers & Programmg"
+	}, {
+		"academicLevel": "UG",
+		"capacity": "30",
+		"comments": [],
+		"courseNumber": "105",
+		"credit": "4",
+		"description": "Introduction to computer capabilities, limitations and  applications; computer system organization; input, output and secondary storage devices; CPU components; Data communication systems; Database management system; Operating systems; Computer's impact on society; problem solving with computers including algorithm development, structured programming and top-down design.",
+		"instructors": [{
+			"username": "ryerion",
+			"name": "R. Yerion"
+		}],
+		"lineNumber": "0626",
+		"location": "UC",
+		"meetingTimes": [{
+			"method": "LEC",
+			"building": "SE",
+			"room": "145",
+			"days": "MW",
+			"startTime": "10:30 AM",
+			"endTime": "12:20 PM",
+			"dates": "08\/27\/2018-12\/08\/2018",
+			"instructor": "ryerion"
+		}, {
+			"method": "FNL",
+			"building": "SE",
+			"room": "145",
+			"days": "M",
+			"startTime": "10:30 AM",
+			"endTime": "12:20 PM",
+			"dates": "12\/09\/2018-12\/15\/2018"
+		}],
+		"prefix": "CS",
+		"prerequisites": "  ",
+		"seatsAvailable": "2",
+		"section": "02",
+		"status": "Open",
+		"term": "18\/FA",
+		"title": "Intro to Computers & Programmg"
+	}, {
+		"academicLevel": "UG",
+		"capacity": "30",
+		"comments": [],
+		"courseNumber": "105",
+		"credit": "4",
+		"description": "Introduction to computer capabilities, limitations and  applications; computer system organization; input, output and secondary storage devices; CPU components; Data communication systems; Database management system; Operating systems; Computer's impact on society; problem solving with computers including algorithm development, structured programming and top-down design.",
+		"instructors": [{
+			"username": "eschenk",
+			"name": "E. Schenk"
+		}],
+		"lineNumber": "0628",
+		"location": "ONL",
+		"meetingTimes": [{
+			"method": "ONL",
+			"dates": "08\/27\/2018-12\/15\/2018",
+			"instructor": "eschenk"
+		}],
+		"prefix": "CS",
+		"prerequisites": "  ",
+		"seatsAvailable": "4",
+		"section": "90",
+		"status": "Open",
+		"term": "18\/FA",
+		"title": "Intro to Computers & Programmg"
+	}, {
+		"academicLevel": "UG",
+		"capacity": "30",
+		"comments": [],
+		"courseNumber": "116",
+		"credit": "4",
+		"description": "This course presents an introduction to the concepts and techniques of computer programming. Emphasis is placed on developing the student's ability to apply problem-solving strategies to design algorithms and to implement these algorithms in the Java Programming language.",
+		"instructors": [{
+			"username": "amukher1",
+			"name": "A. Mukherjee"
+		}],
+		"lineNumber": "0630",
+		"location": "UC",
+		"meetingTimes": [{
+			"method": "LEC",
+			"building": "SE",
+			"room": "135",
+			"days": "MW",
+			"startTime": "10:30 AM",
+			"endTime": "12:20 PM",
+			"dates": "08\/27\/2018-12\/08\/2018",
+			"instructor": "amukher1"
+		}, {
+			"method": "FNL",
+			"building": "SE",
+			"room": "135",
+			"days": "M",
+			"startTime": "10:30 AM",
+			"endTime": "12:20 PM",
+			"dates": "12\/09\/2018-12\/15\/2018"
+		}],
+		"prefix": "CS",
+		"prerequisites": "MATH 103 or equivalent and CS 105 or CS 107  (if test out of CS 105) (Previous, Required)  ",
+		"seatsAvailable": "4",
+		"section": "01",
+		"status": "Open",
+		"term": "18\/FA",
+		"title": "Computer Programming I"
+	}, {
+		"academicLevel": "UG",
+		"capacity": "30",
+		"comments": [],
+		"courseNumber": "116",
+		"credit": "4",
+		"description": "This course presents an introduction to the concepts and techniques of computer programming. Emphasis is placed on developing the student's ability to apply problem-solving strategies to design algorithms and to implement these algorithms in the Java Programming language.",
+		"instructors": [{
+			"username": "pdharam",
+			"name": "P. Dharam"
+		}],
+		"lineNumber": "0632",
+		"location": "UC",
+		"meetingTimes": [{
+			"method": "LEC",
+			"building": "SE",
+			"room": "145",
+			"days": "TR",
+			"startTime": "08:30 AM",
+			"endTime": "10:20 AM",
+			"dates": "08\/27\/2018-12\/08\/2018",
+			"instructor": "pdharam"
+		}, {
+			"method": "FNL",
+			"building": "SE",
+			"room": "145",
+			"days": "T",
+			"startTime": "08:30 AM",
+			"endTime": "10:20 AM",
+			"dates": "12\/09\/2018-12\/15\/2018"
+		}],
+		"prefix": "CS",
+		"prerequisites": "MATH 103 or equivalent and CS 105 or CS 107  (if test out of CS 105) (Previous, Required)  ",
+		"seatsAvailable": "12",
+		"section": "02",
+		"status": "Open",
+		"term": "18\/FA",
+		"title": "Computer Programming I"
+	}, {
+		"academicLevel": "UG",
+		"capacity": "30",
+		"comments": [],
+		"courseNumber": "146",
+		"credit": "3",
+		"description": "Algorithm and problem-solving methods, design and development of modular programs using the Visual BASIC Language including numeric and string operations, input and output operations, decision constructs, repetitive constructs, array processing, graphics, and sequential and random file processing.",
+		"instructors": [{
+			"username": "icho",
+			"name": "I. Cho"
+		}],
+		"lineNumber": "0634",
+		"location": "UC",
+		"meetingTimes": [{
+			"method": "LEC",
+			"building": "SE",
+			"room": "145",
+			"days": "M",
+			"startTime": "07:00 PM",
+			"endTime": "10:00 PM",
+			"dates": "08\/27\/2018-12\/08\/2018",
+			"instructor": "icho"
+		}, {
+			"method": "FNL",
+			"building": "SE",
+			"room": "145",
+			"days": "M",
+			"startTime": "07:00 PM",
+			"endTime": "08:50 PM",
+			"dates": "12\/09\/2018-12\/15\/2018"
+		}],
+		"prefix": "CS",
+		"prerequisites": "CS 105 concurrent for CS or CIS majors only. (Non-CS\/CIS majors are exempt.) (Previous or concurrent, Required)  ",
+		"seatsAvailable": "19",
+		"section": "01",
+		"status": "Open",
+		"term": "18\/FA",
+		"title": "Visual Basic.NET Programming"
+	}, {
+		"academicLevel": "UG",
+		"capacity": "30",
+		"comments": [],
+		"courseNumber": "146",
+		"credit": "3",
+		"description": "Algorithm and problem-solving methods, design and development of modular programs using the Visual BASIC Language including numeric and string operations, input and output operations, decision constructs, repetitive constructs, array processing, graphics, and sequential and random file processing.",
+		"instructors": [{
+			"username": "nas",
+			"name": "N. Samolewski"
+		}],
+		"lineNumber": "0636",
+		"location": "UC",
+		"meetingTimes": [{
+			"method": "LEC",
+			"building": "SE",
+			"room": "145",
+			"days": "MW",
+			"startTime": "12:30 PM",
+			"endTime": "01:50 PM",
+			"dates": "08\/27\/2018-12\/08\/2018",
+			"instructor": "nas"
+		}, {
+			"method": "FNL",
+			"building": "SE",
+			"room": "145",
+			"days": "M",
+			"startTime": "12:30 PM",
+			"endTime": "02:20 PM",
+			"dates": "12\/09\/2018-12\/15\/2018"
+		}],
+		"prefix": "CS",
+		"prerequisites": "CS 105 concurrent for CS or CIS majors only. (Non-CS\/CIS majors are exempt.) (Previous or concurrent, Required)  ",
+		"seatsAvailable": "0",
+		"section": "02",
+		"status": "Clsd",
+		"term": "18\/FA",
+		"title": "Visual Basic.NET Programming"
+	}, {
+		"academicLevel": "UG",
+		"capacity": "30",
+		"comments": [],
+		"courseNumber": "146",
+		"credit": "3",
+		"description": "Algorithm and problem-solving methods, design and development of modular programs using the Visual BASIC Language including numeric and string operations, input and output operations, decision constructs, repetitive constructs, array processing, graphics, and sequential and random file processing.",
+		"instructors": [{
+			"username": "rbeyers",
+			"name": "R. Beyers"
+		}],
+		"lineNumber": "0638",
+		"location": "UC",
+		"meetingTimes": [{
+			"method": "LEC",
+			"building": "SE",
+			"room": "145",
+			"days": "TR",
+			"startTime": "04:30 PM",
+			"endTime": "05:50 PM",
+			"dates": "08\/27\/2018-12\/08\/2018",
+			"instructor": "rbeyers"
+		}, {
+			"method": "FNL",
+			"building": "SE",
+			"room": "145",
+			"days": "T",
+			"startTime": "04:30 PM",
+			"endTime": "06:20 PM",
+			"dates": "12\/09\/2018-12\/15\/2018"
+		}],
+		"prefix": "CS",
+		"prerequisites": "CS 105 concurrent for CS or CIS majors only. (Non-CS\/CIS majors are exempt.) (Previous or concurrent, Required)  ",
+		"seatsAvailable": "0",
+		"section": "03",
+		"status": "Clsd",
+		"term": "18\/FA",
+		"title": "Visual Basic.NET Programming"
+	}, {
+		"academicLevel": "UG",
+		"capacity": "30",
+		"comments": [],
+		"courseNumber": "150",
+		"credit": "1",
+		"description": "This course provides students with an introduction to working with contemporary computer applications with a focus on popular applications such as spreadsheets. Topics will have a business focus and include: absolute\/relative addressing, spreadsheet formatting, working with formulas, creating graphs, building presentations and using styles, templates and reviewer comments. This course is specifically for students in the College of Business & Management.",
+		"instructors": [{
+			"username": "ryerion",
+			"name": "R. Yerion"
+		}],
+		"lineNumber": "0640",
+		"location": "UC",
+		"meetingTimes": [{
+			"method": "LEC",
+			"building": "SE",
+			"room": "145",
+			"days": "W",
+			"startTime": "09:30 AM",
+			"endTime": "10:20 AM",
+			"dates": "08\/27\/2018-12\/08\/2018",
+			"instructor": "ryerion"
+		}, {
+			"method": "FNL",
+			"building": "SE",
+			"room": "145",
+			"days": "W",
+			"startTime": "08:30 AM",
+			"endTime": "10:20 AM",
+			"dates": "12\/09\/2018-12\/15\/2018"
+		}],
+		"prefix": "CS",
+		"prerequisites": "  ",
+		"seatsAvailable": "1",
+		"section": "01",
+		"status": "Open",
+		"term": "18\/FA",
+		"title": "Contemporary Business Software"
+	}, {
+		"academicLevel": "UG",
+		"capacity": "30",
+		"comments": [],
+		"courseNumber": "150",
+		"credit": "1",
+		"description": "This course provides students with an introduction to working with contemporary computer applications with a focus on popular applications such as spreadsheets. Topics will have a business focus and include: absolute\/relative addressing, spreadsheet formatting, working with formulas, creating graphs, building presentations and using styles, templates and reviewer comments. This course is specifically for students in the College of Business & Management.",
+		"instructors": [{
+			"username": "ryerion",
+			"name": "R. Yerion"
+		}],
+		"lineNumber": "0642",
+		"location": "UC",
+		"meetingTimes": [{
+			"method": "LEC",
+			"building": "SE",
+			"room": "145",
+			"days": "W",
+			"startTime": "08:30 AM",
+			"endTime": "09:20 AM",
+			"dates": "08\/27\/2018-12\/08\/2018",
+			"instructor": "ryerion"
+		}, {
+			"method": "FNL",
+			"building": "SE",
+			"room": "116",
+			"days": "W",
+			"startTime": "08:30 AM",
+			"endTime": "10:20 AM",
+			"dates": "12\/09\/2018-12\/15\/2018"
+		}],
+		"prefix": "CS",
+		"prerequisites": "  ",
+		"seatsAvailable": "0",
+		"section": "02",
+		"status": "Clsd",
+		"term": "18\/FA",
+		"title": "Contemporary Business Software"
+	}, {
+		"academicLevel": "UG",
+		"capacity": "30",
+		"comments": [],
+		"courseNumber": "160",
+		"credit": "3",
+		"description": "Introduction to microcomputer software including the Windows operating system, a word processor (Microsoft Word), a spreadsheet (Microsoft Excel) and a presentation package (Microsoft PowerPoint).",
+		"instructors": [{
+			"username": "eschenk",
+			"name": "E. Schenk"
+		}],
+		"lineNumber": "0644",
+		"location": "ONL",
+		"meetingTimes": [{
+			"method": "ONL",
+			"dates": "08\/27\/2018-12\/15\/2018",
+			"instructor": "eschenk"
+		}],
+		"prefix": "CS",
+		"prerequisites": "  ",
+		"seatsAvailable": "2",
+		"section": "90",
+		"status": "Open",
+		"term": "18\/FA",
+		"title": "Microcomputer Software"
+	}, {
+		"academicLevel": "UG",
+		"capacity": "30",
+		"comments": [],
+		"courseNumber": "160",
+		"credit": "3",
+		"description": "Introduction to microcomputer software including the Windows operating system, a word processor (Microsoft Word), a spreadsheet (Microsoft Excel) and a presentation package (Microsoft PowerPoint).",
+		"instructors": [{
+			"username": "eschenk",
+			"name": "E. Schenk"
+		}],
+		"lineNumber": "0646",
+		"location": "ONL",
+		"meetingTimes": [{
+			"method": "ONL",
+			"dates": "08\/27\/2018-12\/15\/2018",
+			"instructor": "eschenk"
+		}],
+		"prefix": "CS",
+		"prerequisites": "  ",
+		"seatsAvailable": "19",
+		"section": "91",
+		"status": "Open",
+		"term": "18\/FA",
+		"title": "Microcomputer Software"
+	}, {
+		"academicLevel": "UG",
+		"capacity": "30",
+		"comments": [],
+		"courseNumber": "216",
+		"credit": "4",
+		"description": "This course continues the development of computer programming techniques introduced in CS 116. Topics include data abstraction, object-oriented programming, linear and nonlinear data structures and analysis of sort and search routines including inheritance, polymorphism, recursion lists, linked-lists, stacks, queues and binary trees.",
+		"instructors": [{
+			"username": "amulahuw",
+			"name": "A. Mulahuwaish"
+		}],
+		"lineNumber": "0648",
+		"location": "UC",
+		"meetingTimes": [{
+			"method": "LEC",
+			"building": "SE",
+			"room": "135",
+			"days": "MW",
+			"startTime": "08:30 AM",
+			"endTime": "10:20 AM",
+			"dates": "08\/27\/2018-12\/08\/2018",
+			"instructor": "amulahuw"
+		}, {
+			"method": "FNL",
+			"building": "SE",
+			"room": "116",
+			"days": "M",
+			"startTime": "08:30 AM",
+			"endTime": "10:20 AM",
+			"dates": "12\/09\/2018-12\/15\/2018"
+		}],
+		"prefix": "CS",
+		"prerequisites": "CS 116 and MATH 120A, MATH 120B, MATH 140 or MATH 161 (Previous, Required)  ",
+		"seatsAvailable": "9",
+		"section": "01",
+		"status": "Open",
+		"term": "18\/FA",
+		"title": "Computer Programming II"
+	}, {
+		"academicLevel": "UG",
+		"capacity": "30",
+		"comments": [],
+		"courseNumber": "216",
+		"credit": "4",
+		"description": "This course continues the development of computer programming techniques introduced in CS 116. Topics include data abstraction, object-oriented programming, linear and nonlinear data structures and analysis of sort and search routines including inheritance, polymorphism, recursion lists, linked-lists, stacks, queues and binary trees.",
+		"instructors": [{
+			"username": "pdharam",
+			"name": "P. Dharam"
+		}],
+		"lineNumber": "0650",
+		"location": "UC",
+		"meetingTimes": [{
+			"method": "LEC",
+			"building": "SE",
+			"room": "145",
+			"days": "MW",
+			"startTime": "02:30 PM",
+			"endTime": "04:20 PM",
+			"dates": "08\/27\/2018-12\/08\/2018",
+			"instructor": "pdharam"
+		}, {
+			"method": "FNL",
+			"building": "SE",
+			"room": "145",
+			"days": "M",
+			"startTime": "02:30 PM",
+			"endTime": "04:20 PM",
+			"dates": "12\/09\/2018-12\/15\/2018"
+		}],
+		"prefix": "CS",
+		"prerequisites": "CS 116 and MATH 120A, MATH 120B, MATH 140 or MATH 161 (Previous, Required)  ",
+		"seatsAvailable": "11",
+		"section": "02",
+		"status": "Open",
+		"term": "18\/FA",
+		"title": "Computer Programming II"
+	}, {
+		"academicLevel": "UG",
+		"capacity": "30",
+		"comments": [],
+		"courseNumber": "232",
+		"credit": "4",
+		"description": "This course covers planning, deploying, and maintaining servers, desktops, networks, and virtualization. Topics include foundations of open source technologies, Windows installation, Linux installation, networking fundamentals, routing fundamentals, virtual private networking concepts, managing the components of the network, and virtualization. Commercial and open source platforms are compared, configured, and secured. Business related benefits of proprietary software, open source software, and virtualization are discussed and applied. This course includes extensive use of hands-on exercises that simulate real-world computer\/networking infrastructures.",
+		"instructors": [{
+			"username": "mricard",
+			"name": "M. Ricard"
+		}],
+		"lineNumber": "0652",
+		"location": "UC",
+		"meetingTimes": [{
+			"method": "LEC",
+			"building": "SE",
+			"room": "123",
+			"days": "MW",
+			"startTime": "04:30 PM",
+			"endTime": "06:20 PM",
+			"dates": "08\/27\/2018-12\/08\/2018",
+			"instructor": "mricard"
+		}, {
+			"method": "FNL",
+			"building": "SE",
+			"room": "123",
+			"days": "M",
+			"startTime": "04:30 PM",
+			"endTime": "06:20 PM",
+			"dates": "12\/09\/2018-12\/15\/2018"
+		}],
+		"prefix": "CS",
+		"prerequisites": "CS 105. (Previous, Required)  ",
+		"seatsAvailable": "5",
+		"section": "01",
+		"status": "Open",
+		"term": "18\/FA",
+		"title": "Cybersecurity Sys Admin"
+	}, {
+		"academicLevel": "UG",
+		"capacity": "30",
+		"comments": [],
+		"courseNumber": "245",
+		"credit": "4",
+		"description": "This course will focus on topics such as statistics, probability theory, sampling theory, and statistical inference when applied to the field of computer science and information systems. Additional topics will include data collection, analysis, interpretation, and handling massive data sets with examples from the field of computer information systems.  ",
+		"instructors": [{
+			"username": "krahman",
+			"name": "K. Rahman"
+		}],
+		"lineNumber": "0654",
+		"location": "UC",
+		"meetingTimes": [{
+			"method": "LEC",
+			"building": "SE",
+			"room": "145",
+			"days": "T",
+			"startTime": "10:30 AM",
+			"endTime": "12:20 PM",
+			"dates": "08\/27\/2018-12\/08\/2018",
+			"instructor": "krahman"
+		}, {
+			"method": "LEC",
+			"building": "SE",
+			"room": "117",
+			"days": "R",
+			"startTime": "10:30 AM",
+			"endTime": "12:20 PM",
+			"dates": "08\/27\/2018-12\/08\/2018"
+		}, {
+			"method": "FNL",
+			"building": "SE",
+			"room": "145",
+			"days": "T",
+			"startTime": "10:30 AM",
+			"endTime": "12:20 PM",
+			"dates": "12\/09\/2018-12\/15\/2018"
+		}],
+		"prefix": "CS",
+		"prerequisites": "CS 116 and MATH 120B or MATH 140 or higher (Previous, Required)  ",
+		"seatsAvailable": "0",
+		"section": "01",
+		"status": "Clsd",
+		"term": "18\/FA",
+		"title": "Stat & Its Appl in Comp Sci"
+	}, {
+		"academicLevel": "UG",
+		"capacity": "30",
+		"comments": [],
+		"courseNumber": "316",
+		"credit": "4",
+		"description": "This course presents an introduction to advanced data structures using object oriented C++ language features. Topics include abstract levels of data type, classes, member functions, access ability, recursion, AVL-trees, B-trees and general trees, graphs, sorting, searching, hashing, complexity and efficiency of algorithms, data compressions, and memory management.  Prerequisite: MATH 300 (may be taken concurrently) and CS 216.",
+		"instructors": [{
+			"username": "krahman",
+			"name": "K. Rahman"
+		}],
+		"lineNumber": "0656",
+		"location": "UC",
+		"meetingTimes": [{
+			"method": "LEC",
+			"building": "P",
+			"room": "242",
+			"days": "MW",
+			"startTime": "12:30 PM",
+			"endTime": "02:20 PM",
+			"dates": "08\/27\/2018-12\/08\/2018",
+			"instructor": "krahman"
+		}, {
+			"method": "FNL",
+			"building": "P",
+			"room": "242",
+			"days": "M",
+			"startTime": "12:30 PM",
+			"endTime": "02:20 PM",
+			"dates": "12\/09\/2018-12\/15\/2018"
+		}],
+		"prefix": "CS",
+		"prerequisites": "CS 216. (Previous, Required) MATH 300  (Previous or concurrent, Required)  ",
+		"seatsAvailable": "1",
+		"section": "01",
+		"status": "Open",
+		"term": "18\/FA",
+		"title": "Data Struc & Algorithm Analy"
+	}, {
+		"academicLevel": "UG",
+		"capacity": "30",
+		"comments": [],
+		"courseNumber": "333",
+		"credit": "4",
+		"description": "This course presents principles and techniques of conducting computing investigations and examinations of the use of computers in the digital crimes, and collecting and analyzing the digital evidence in civil, criminal, or administrative cases. Topics include:   evidences gathering and analyzing, static and live data acquisitions, file structure, data image validation, virtual machine forensics, cloud forensics, e-mail investigation, mobile device forensics and report writing.",
+		"instructors": [{
+			"username": "krahman",
+			"name": "K. Rahman"
+		}],
+		"lineNumber": "0658",
+		"location": "UC",
+		"meetingTimes": [{
+			"method": "LEC",
+			"building": "SE",
+			"room": "224",
+			"days": "MW",
+			"startTime": "08:30 AM",
+			"endTime": "10:20 AM",
+			"dates": "08\/27\/2018-12\/08\/2018",
+			"instructor": "krahman"
+		}, {
+			"method": "FNL",
+			"building": "SE",
+			"room": "224",
+			"days": "M",
+			"startTime": "08:30 AM",
+			"endTime": "10:20 AM",
+			"dates": "12\/09\/2018-12\/15\/2018"
+		}],
+		"prefix": "CS",
+		"prerequisites": "CS 216, CS 232 and CS 233, or instructor permission (Previous, Required)  ",
+		"seatsAvailable": "18",
+		"section": "01",
+		"status": "Open",
+		"term": "18\/FA",
+		"title": "Computer Forensics I"
+	}, {
+		"academicLevel": "UG",
+		"capacity": "30",
+		"comments": [],
+		"courseNumber": "401",
+		"credit": "4",
+		"description": "This course presents the theoretical concepts necessary to understand the complex problem of computer networking. Topics include computer network architectures and models, bandwidth limitations of physical media, analog and digital signaling methods, data link protocols, error detection and correction, medium access control in broadcast networks, routing algorithms, internetworking, the Internet Protocol, connection management, transport services including TCP\/UDP, network applications, local-area and wide-area networks.  ",
+		"instructors": [{
+			"username": "pdharam",
+			"name": "P. Dharam"
+		}],
+		"lineNumber": "0660",
+		"location": "UC",
+		"meetingTimes": [{
+			"method": "LEC",
+			"building": "SE",
+			"room": "120",
+			"days": "MW",
+			"startTime": "10:30 AM",
+			"endTime": "12:20 PM",
+			"dates": "08\/27\/2018-12\/08\/2018",
+			"instructor": "pdharam"
+		}, {
+			"method": "FNL",
+			"building": "SE",
+			"room": "120",
+			"days": "M",
+			"startTime": "10:30 AM",
+			"endTime": "12:20 PM",
+			"dates": "12\/09\/2018-12\/15\/2018"
+		}],
+		"prefix": "CS",
+		"prerequisites": "CS 331 (Previous, Required)  ",
+		"seatsAvailable": "0",
+		"section": "01",
+		"status": "Clsd",
+		"term": "18\/FA",
+		"title": "Computer Networks"
+	}, {
+		"academicLevel": "UG",
+		"capacity": "20",
+		"comments": [],
+		"courseNumber": "403",
+		"credit": "4",
+		"description": "This course examines mobile application development for small footprint devices.  Development strategies, issues and limitations pertaining to mobile devices will be presented.  Current techniques, toolsets and application frameworks will be provided with students producing several mobile applications.",
+		"instructors": [{
+			"username": "gnolan",
+			"name": "G. Nolan"
+		}],
+		"lineNumber": "0662",
+		"location": "ONL",
+		"meetingTimes": [{
+			"method": "ONL",
+			"dates": "08\/27\/2018-12\/15\/2018",
+			"instructor": "gnolan"
+		}],
+		"prefix": "CS",
+		"prerequisites": "CIS 355, and CS 401 or CIS 301 (Previous, Required)  ",
+		"seatsAvailable": "8",
+		"section": "90",
+		"status": "Open",
+		"term": "18\/FA",
+		"title": "Mobile App Dev"
+	}, {
+		"academicLevel": "UG",
+		"capacity": "30",
+		"comments": [],
+		"courseNumber": "421",
+		"credit": "4",
+		"description": "This course presents advanced techniques in reusable object-oriented design.  Topics include UML, using object-oriented libraries, designing with inheritance, debugging and testing, user interface design, and creating object libraries and other techniques for code and experience reuse. Prerequisite: CS 216.  Recommended prerequisite: CS 316 and CIS 366.  The Java programming language background or CIS 357 is also recommended.   ",
+		"instructors": [{
+			"username": "icho",
+			"name": "I. Cho"
+		}],
+		"lineNumber": "0664",
+		"location": "UC",
+		"meetingTimes": [{
+			"method": "LEC",
+			"building": "SE",
+			"room": "117",
+			"days": "TR",
+			"startTime": "12:30 PM",
+			"endTime": "02:20 PM",
+			"dates": "08\/27\/2018-12\/08\/2018",
+			"instructor": "icho"
+		}, {
+			"method": "FNL",
+			"building": "SE",
+			"room": "117",
+			"days": "T",
+			"startTime": "12:30 PM",
+			"endTime": "02:20 PM",
+			"dates": "12\/09\/2018-12\/15\/2018"
+		}],
+		"prefix": "CS",
+		"prerequisites": "CIS 355 CIS 357 CS 401 CS 411 (Previous, Required) Senior standing (Previous, Required)  ",
+		"seatsAvailable": "1",
+		"section": "01",
+		"status": "Open",
+		"term": "18\/FA",
+		"title": "Object-Oriented Des & Develop"
+	}, {
+		"academicLevel": "UG",
+		"capacity": "30",
+		"comments": [],
+		"courseNumber": "461",
+		"credit": "4",
+		"description": "This course provides an introduction to basic models of computational complexity and the representation of infinite objects.  Topics that will be examined including grammars, finite state machines, automata theory, Turing machines, computability and decidability, regular and context free languages.",
+		"instructors": [{
+			"username": "amulahuw",
+			"name": "A. Mulahuwaish"
+		}],
+		"lineNumber": "0666",
+		"location": "UC",
+		"meetingTimes": [{
+			"method": "LEC",
+			"building": "SE",
+			"room": "225",
+			"days": "TR",
+			"startTime": "10:30 AM",
+			"endTime": "12:20 PM",
+			"dates": "08\/27\/2018-12\/08\/2018",
+			"instructor": "amulahuw"
+		}, {
+			"method": "FNL",
+			"building": "SE",
+			"room": "225",
+			"days": "T",
+			"startTime": "10:30 AM",
+			"endTime": "12:20 PM",
+			"dates": "12\/09\/2018-12\/15\/2018"
+		}],
+		"prefix": "CS",
+		"prerequisites": "CS 316 (Previous, Required)  ",
+		"seatsAvailable": "0",
+		"section": "01",
+		"status": "Clsd",
+		"term": "18\/FA",
+		"title": "Theory of Computation"
+	}]
+}

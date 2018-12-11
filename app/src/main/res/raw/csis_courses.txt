@@ -1,0 +1,142 @@
+{
+	"courses": [{
+		"academicLevel": "GR",
+		"capacity": "30",
+		"comments": [],
+		"courseNumber": "503",
+		"credit": "3",
+		"description": "The course presents emerging technologies and tools used to design and implement applications for smartphones and other mobile devices. Students work primarily on Android platforms, however for some assignments students may choose to do project work on other platforms. The course teaches conceptual fundamentals, problem solving and design skills, and coding skills through lectures, lab sessions, independent study and a final programming project or final paper. Platform trends, markets, and technical architectures and business models are also discussed.",
+		"instructors": [{
+			"username": "gpcorser",
+			"name": "G. Corser"
+		}],
+		"lineNumber": "0668",
+		"location": "ONL",
+		"meetingTimes": [{
+			"method": "ONL",
+			"dates": "08\/27\/2018-12\/15\/2018",
+			"instructor": "gpcorser"
+		}],
+		"prefix": "CSIS",
+		"prerequisites": "  ",
+		"seatsAvailable": "21",
+		"section": "90",
+		"status": "Open",
+		"term": "18\/FA",
+		"title": "Mobile Computing"
+	}, {
+		"academicLevel": "GR",
+		"capacity": "30",
+		"comments": [],
+		"courseNumber": "521",
+		"credit": "3",
+		"description": "This course focuses on each major phase of the software life-cycle, including requirements analysis, requirements modeling, design modeling, and project management. Topics include process models and methodologies, including unified process and agile methods, program specification, program validation and verification technique, and project maintenance and configuration management.",
+		"instructors": [{
+			"username": "amukher1",
+			"name": "A. Mukherjee"
+		}],
+		"lineNumber": "0670",
+		"location": "UC",
+		"meetingTimes": [{
+			"method": "LEC",
+			"building": "SE",
+			"room": "117",
+			"days": "MW",
+			"startTime": "05:30 PM",
+			"endTime": "06:50 PM",
+			"dates": "08\/27\/2018-12\/08\/2018",
+			"instructor": "amukher1"
+		}, {
+			"method": "FNL",
+			"building": "SE",
+			"room": "117",
+			"days": "W",
+			"startTime": "04:30 PM",
+			"endTime": "06:20 PM",
+			"dates": "12\/09\/2018-12\/15\/2018"
+		}],
+		"prefix": "CSIS",
+		"prerequisites": "  ",
+		"seatsAvailable": "18",
+		"section": "01",
+		"status": "Open",
+		"term": "18\/FA",
+		"title": "Software Engineering"
+	}, {
+		"academicLevel": "GR",
+		"capacity": "30",
+		"comments": [],
+		"courseNumber": "531",
+		"credit": "3",
+		"description": "The course covers fundamental structures in modern microprocessor and computer system architecture design. Topics will include computer organization, instruction set architecture, CISC and RISC architecture, memory system design, pipelining, and other advanced topics to exploit parallelism. The class will focus on quantitative evaluation of different design alternatives and tradeoffs between cost and performance as well as between hardware and software.",
+		"instructors": [{
+			"username": "amulahuw",
+			"name": "A. Mulahuwaish"
+		}],
+		"lineNumber": "0672",
+		"location": "UC",
+		"meetingTimes": [{
+			"method": "LEC",
+			"building": "SE",
+			"room": "117",
+			"days": "TR",
+			"startTime": "05:30 PM",
+			"endTime": "06:50 PM",
+			"dates": "08\/27\/2018-12\/08\/2018",
+			"instructor": "amulahuw"
+		}, {
+			"method": "FNL",
+			"building": "SE",
+			"room": "117",
+			"days": "R",
+			"startTime": "04:30 PM",
+			"endTime": "06:20 PM",
+			"dates": "12\/09\/2018-12\/15\/2018"
+		}],
+		"prefix": "CSIS",
+		"prerequisites": "  ",
+		"seatsAvailable": "20",
+		"section": "01",
+		"status": "Open",
+		"term": "18\/FA",
+		"title": "Computer Architecture"
+	}, {
+		"academicLevel": "GR",
+		"capacity": "30",
+		"comments": [],
+		"courseNumber": "566",
+		"credit": "3",
+		"description": "This course examines the role and impact that IT plays within modern organizations. Topics will include planning and staffing the IT department, IT support of the organization, dealing with organizational changes and challenges, developing core competencies, increasing information system availability and performance, and adjusting to ever changing technologies. Various tools that are used to assist in the creation and measurement of IT value will also be studied.",
+		"instructors": [{
+			"username": "mdstackh",
+			"name": "M. Stackhouse"
+		}],
+		"lineNumber": "0674",
+		"location": "UC",
+		"meetingTimes": [{
+			"method": "LEC",
+			"building": "SE",
+			"room": "121",
+			"days": "M",
+			"startTime": "07:00 PM",
+			"endTime": "10:00 PM",
+			"dates": "08\/27\/2018-12\/08\/2018",
+			"instructor": "mdstackh"
+		}, {
+			"method": "FNL",
+			"building": "SE",
+			"room": "121",
+			"days": "M",
+			"startTime": "07:00 PM",
+			"endTime": "08:50 PM",
+			"dates": "12\/09\/2018-12\/15\/2018"
+		}],
+		"prefix": "CSIS",
+		"prerequisites": "  ",
+		"seatsAvailable": "18",
+		"section": "01",
+		"status": "Open",
+		"term": "18\/FA",
+		"title": "IT Strategy"
+	}]
+}
